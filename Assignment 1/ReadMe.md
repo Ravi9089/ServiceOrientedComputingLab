@@ -29,14 +29,6 @@ This assignment consists of a web-based healthcare data management system. It al
 - Java Development Kit (JDK)
 - Web browser (for running HTML files)
 
-## Contributing
-
-If you'd like to contribute to this project, please fork the repository and create a pull request. Feel free to suggest improvements or report any issues.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 **Note:** This README is a template. Please customize it according to your project's specific details and requirements.
